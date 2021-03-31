@@ -26,7 +26,7 @@
                 type="submit"
                 class="bg-blue-500 hover:bg-blue-600 rounded-2xl shadow px-10 text-sm text-white h-10"
             >
-                Tweetoo
+                Publish
             </button>
         </footer>
     </form>
