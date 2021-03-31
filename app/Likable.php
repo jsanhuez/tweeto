@@ -16,12 +16,6 @@ trait Likable
             'likes.tweet_id',
             'tweets.id'
         );
-        // select * from tweets
-        // left join (
-        //     select tweet_id, sum(liked) likes, sum(!liked) dislikes from likes group by tweet_id
-        // ) likes
-        // on likes.tweet_id = tweets.id
-
     }
 
     public function like($user = null, $liked = true)
