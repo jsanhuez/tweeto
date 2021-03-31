@@ -6,7 +6,7 @@
         <div class="mb-6">
             <label
                 for="name"
-                class="blocj mb-2 uppercase font-bold text-xs text-gray-700"
+                class="block mb-2 uppercase font-bold text-xs text-gray-700"
             >
                 Name
             </label>
@@ -28,7 +28,7 @@
         <div class="mb-6">
             <label
                 for="username"
-                class="blocj mb-2 uppercase font-bold text-xs text-gray-700"
+                class="block mb-2 uppercase font-bold text-xs text-gray-700"
             >
                 Username
             </label>
@@ -50,7 +50,7 @@
         <div class="mb-6">
             <label
                 for="avatar"
-                class="blocj mb-2 uppercase font-bold text-xs text-gray-700"
+                class="block mb-2 uppercase font-bold text-xs text-gray-700"
             >
                 Avatar
             </label>
@@ -74,7 +74,7 @@
         <div class="mb-6">
             <label
                 for="email"
-                class="blocj mb-2 uppercase font-bold text-xs text-gray-700"
+                class="block mb-2 uppercase font-bold text-xs text-gray-700"
             >
                 Email
             </label>
@@ -96,7 +96,7 @@
         <div class="mb-6">
             <label
                 for="password"
-                class="blocj mb-2 uppercase font-bold text-xs text-gray-700"
+                class="block mb-2 uppercase font-bold text-xs text-gray-700"
             >
                 Password
             </label>
@@ -105,7 +105,7 @@
                 class="border border-gray-400 p-2 w-full"
                 type="password"
                 name="password"
-                id="password" 
+                id="password"
                 required
             >
 
@@ -117,7 +117,7 @@
         <div class="mb-6">
             <label
                 for="password_confirmation"
-                class="blocj mb-2 uppercase font-bold text-xs text-gray-700"
+                class="block mb-2 uppercase font-bold text-xs text-gray-700"
             >
                 Password Confirmation
             </label>
